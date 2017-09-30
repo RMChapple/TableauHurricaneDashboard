@@ -13,6 +13,7 @@ This csv file contains an edited version of the NOAA HURDAT2 dataset. It removes
 **I do not own this dataset**, and this edited version is supplied for the purposes of education only.
 
 The original HURDAT2 dataset is available from NOAA here: <http://www.nhc.noaa.gov/data/>
+They do wonderful work, and I have nothing but gratitude to them for making their data publicly available.
 
 ### HurricanesDashboard.twbx
 This Tableau Packaged Workbook contains the completed dashboard and worksheets. Feel free to download and explore!
