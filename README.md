@@ -1,4 +1,4 @@
-# Here Comes The Story of The Hurricane.
+# Here Comes The Story of The Hurricane
 ## How to build 'The Hurricane Dashboard' in Tableau
 ### Robert M Chapple
 
@@ -16,6 +16,8 @@ The original HURDAT2 dataset is available from NOAA here: <http://www.nhc.noaa.g
 
 ### HurricanesDashboard.twbx
 This Tableau Packaged Workbook contains the completed dashboard and worksheets. Feel free to download and explore!
-(Or it will be, once I complete it! This is a 'work in progress' rigght now.)
+(Or it will be, once I complete it! This is a 'work in progress' right now.)
+
+The title comes from Bob Dylan's song Hurricane (co-written with Jacques Levy), from his 1976 album, Desire. But, of corse, you knew that.
 
 
