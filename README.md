@@ -1,4 +1,4 @@
-# Here Comes The Story of The Hurricane
+# Here Comes The Story Of The Hurricane
 ## How to build 'The Hurricane Dashboard' in Tableau
 ### Robert M Chapple
 
