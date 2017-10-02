@@ -21,7 +21,6 @@ This Tableau Packaged Workbook contains the completed dashboard and worksheets. 
 
 ### HurricanesCalculations.txt
 This txt file lists all of the Calculated Fields I used to create the dashboard. Just copy & paste - No need to type it all out yourself!
-(also, not complete just yet ... it'll get there ... don't rush me!)
 
 The title comes from Bob Dylan's song Hurricane (co-written with Jacques Levy), from his 1976 album, Desire. But, of corse, you knew that.
 
