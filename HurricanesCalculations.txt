@@ -1,0 +1,30 @@
+Date
+//Create date from individual YMD elements
+MAKEDATE([Year],[Month],[Day])
+
+Date & Time
+//Create Date from pre-existing Date Calculation & Time from individual Hr & Min elements
+MAKEDATETIME(
+[Date],
+MAKETIME([Hours],[Minutes],1)
+)
+
+No of Storms
+//Count of individual storms
+COUNTD([Path ID])
+
+Maximum Windspeed (kt) calc
+//Calculates Maximum value in [Maximum sustained wind (in knots)]
+MAX([Maximum sustained wind (in knots)])
+
+Mean Windspeed (kt) Calc
+//Calculates Mean value in [Maximum sustained wind (in knots)]
+AVG([Maximum sustained wind (in knots)])
+
+Av Duration (Days)
+//Calculate Average length of selected Hurricanes using FIXED LOD to calculate MAX & MIN Days
+AVG(
+({FIXED[Path ID]:MAX([Date & Time])})
+-
+({FIXED[Path ID]:MIN([Date & Time])})
+)
