@@ -17,7 +17,6 @@ They do wonderful work, and I have nothing but gratitude to them for making thei
 
 ### HurricanesDashboard.twbx
 This Tableau Packaged Workbook contains the completed dashboard and worksheets. Feel free to download and explore!
-(Or it will be, once I complete it! This is a 'work in progress' right now.)
 
 ### HurricanesCalculations.txt
 This txt file lists all of the Calculated Fields I used to create the dashboard. Just copy & paste - No need to type it all out yourself!
