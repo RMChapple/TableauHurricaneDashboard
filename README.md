@@ -2,7 +2,7 @@
 ## How to build 'The Hurricane Dashboard' in Tableau
 ### Robert M Chapple
 
-As part of my company's Learn Day initiative, I'm giving a 'how to' tutorial on building a visualisation of the NOAA HURDAT2 datasource in Tableau. In other words, I'm demoing 'The Hurricane Dashboard'.
+As part of my company's Learn Day initiative, I gave a 'how to' tutorial on building a visualisation of the NOAA HURDAT2 datasource in Tableau. In other words, I'm demoing 'The Hurricane Dashboard'.
 
 Why this particular dashboard? Well ... the building process showcases a nice range of beginner and intermediate techniques, but mostly it is relatively quick to make and delivers spectacular results! What's not to like?
 
@@ -21,6 +21,6 @@ This Tableau Packaged Workbook contains the completed dashboard and worksheets. 
 ### HurricanesCalculations.txt
 This txt file lists all of the Calculated Fields I used to create the dashboard. Just copy & paste - No need to type it all out yourself!
 
-The title comes from Bob Dylan's song Hurricane (co-written with Jacques Levy), from his 1976 album, Desire. But, of corse, you knew that.
+The title comes from Bob Dylan's song Hurricane (co-written with Jacques Levy), from his 1976 album, Desire. But, of course, you knew that.
 
 
